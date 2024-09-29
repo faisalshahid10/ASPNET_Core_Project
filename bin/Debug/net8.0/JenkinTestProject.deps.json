@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JenkinTestProject/1.0.0": {
+        "runtime": {
+          "JenkinTestProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JenkinTestProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
